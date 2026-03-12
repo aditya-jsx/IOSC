@@ -24,9 +24,9 @@ const events = [
     id: 1,
     title: "ExpertTalk: FutureTech Workshop",
     shortDesc:
-      "Led by Akarsh Jaiswal, Software Developer at Infosys, the workshop offered valuable insights into how projects are built in the tech industry, skill pathways for students, and the mindset required to thrive in modern software roles.",
+      "ExpertTalk: FutureTech Workshop by IOSC-BVP was conducted on 16 February 2026, featuring an interactive session by Akarsh Jaiswal from Infosys, where students gained practical insights into real-world project development, industry workflows, and emerging technology trends. Students gained clarity on industry expectations, workflow patterns, and real-world applications of the technologies they study making the session highly informative and impactful.",
     cardDesc:
-      "An engaging session giving students practical exposure to real industry practices and emerging technology trends, led by a Software Developer at Infosys.",
+      "An interactive session by Akarsh Jaiswal from Infosys — gaining practical insights into real-world project development, industry workflows, and emerging technology trends.",
     cardBackDesc:
       "Students gained clarity on industry expectations, workflow patterns, and real-world applications of the technologies they study — making the session highly informative and impactful.",
     frontImg: ExpertTalkFront,
@@ -36,16 +36,16 @@ const events = [
     id: 2,
     title: "WinterHack 2026",
     shortDesc:
-      "WinterHack is IOSC BVP's annual intra-society hackathon that gives students a hands-on experience of real-world hackathons. It serves as a platform to learn, experiment, and grow through teamwork and technology.",
+      "WinterHack '26 by IOSC BVP is an intra-society hackathon conducted on 25 January 2026, designed to give students a real-world hackathon experience. Participants collaborated, worked on their projects throughout the event under the guidance of mentors, built innovative solutions, and pitched their final outcomes, fostering hands-on learning and teamwork.",
     cardDesc:
-      "IOSC BVP's annual intra-society hackathon — collaborate, innovate, build projects, and pitch your solutions while being guided by senior mentors.",
+      "An intra-society hackathon conducted on 25 January 2026 — collaborate, build innovative solutions, and pitch your final outcomes under the guidance of mentors.",
     cardBackDesc:
-      "Participants collaborate, innovate, build projects, and pitch their solutions while being guided by senior mentors, gaining real-world hackathon experience.",
+      "Participants collaborated, worked on their projects throughout the event under the guidance of mentors, built innovative solutions, and pitched their final outcomes, fostering hands-on learning and teamwork.",
     frontImg: WinterHackFront,
     backImg: WinterHackBack,
   },
   {
-    id: 1,
+    id: 3,
     title: "Tech Genesis 2025",
     shortDesc:
       "TechGenesis 2.0 by IOSC-BVP is a hybrid hackathon featuring a bootcamp on April 10th, an online Devयुद्ध hackathon on April 11th with an offline round on 12th April, and an offline pitch event HardwareX on April 12th, with prizes totaling $400.",
@@ -56,7 +56,7 @@ const events = [
     backImg: TechGenesis2025Back,
   },
   {
-    id: 2,
+    id: 4,
     title: "Tech Genesis 2024",
     shortDesc:
       "Techgenesis 2024 by IOSC-BVP featured a 24-hour hackathon, DevFusion, fostering innovation. Projexon highlighted student projects, while Hire Harbour simulated job placements, enhancing skills and teamwork among aspiring tech leaders.",
@@ -68,7 +68,7 @@ const events = [
     backImg: TechGenesisBack,
   },
   {
-    id: 3,
+    id: 5,
     title: "Ideate",
     shortDesc:
       "Ideate, IOSC-BVP's first ideathon, challenged 100+ students to creatively solve modern issues, fostering teamwork, mentorship, and innovation. Top ideas received awards, establishing IOSC-BVP as a problem-solving hub.",
@@ -80,7 +80,7 @@ const events = [
     backImg: IdeateBack,
   },
   {
-    id: 4,
+    id: 6,
     title: "AI for Everyone",
     shortDesc:
       "AI for Everyone, a beginner-friendly bootcamp, introduced students to Python, data analysis, and ML projects with hands-on guidance from mentors, building a solid foundation in AI through practical application",
@@ -92,7 +92,7 @@ const events = [
     backImg: ai_event_back,
   },
   {
-    id: 5,
+    id: 7,
     title: "WebD Workshop",
     shortDesc:
       "The WebD Workshop was a week-long bootcamp teaching web development fundamentals to advanced JavaScript. Participants built portfolio-ready projects, gained practical skills, and connected with fellow aspiring developers.",
